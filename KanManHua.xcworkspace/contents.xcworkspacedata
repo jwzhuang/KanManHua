@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:KanManHua/ManHua+CoreDataClass.swift">
+   </FileRef>
+   <FileRef
+      location = "group:KanManHua/ManHua+CoreDataProperties.swift">
+   </FileRef>
+   <Group
+      location = "container:"
+      name = "coredata">
+   </Group>
+   <FileRef
+      location = "group:KanManHua.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+</Workspace>
