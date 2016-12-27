@@ -3,4 +3,4 @@
 - 1.記錄最後看的一頁
 - 2.依據最後看的頁面判斷是否有更新
 
-![Alt Text](https://github.com/jwzhuang/KanManHua/blob/master/example.gif)
+<img src="https://github.com/jwzhuang/KanManHua/blob/master/example.gif" width="480" height="640" />
